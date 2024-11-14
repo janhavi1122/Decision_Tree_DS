@@ -1,0 +1,7 @@
+This project builds a Decision Tree model to predict credit risk, aiming to classify loan applicants based on their likelihood of default. Using features like checking_balance, credit_history, and employment_duration, the model is trained on labeled data to identify patterns associated with defaults. After preprocessing, including encoding categorical variables, the data is split into training and testing sets, and the model is trained with an entropy-based criterion to optimize splits. By generating predictions on the test data and assessing accuracy, this model provides a data-driven approach to help financial institutions make informed lending decisions.
+
+
+
+
+
+
